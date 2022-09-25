@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-25T15:47:29 SAST" name="Default suite" finished-at="2022-09-25T15:48:05 SAST" duration-ms="35214">
+    <groups>
+    </groups>
+    <test started-at="2022-09-25T15:47:29 SAST" name="Default test" finished-at="2022-09-25T15:48:05 SAST" duration-ms="35214">
+      <class name="com.qa.test.FocusPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.test.FocusPageTest@4659191b]" started-at="2022-09-25T15:47:29 SAST" name="setup" finished-at="2022-09-25T15:48:02 SAST" duration-ms="32228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signupTest()[pri:0, instance:com.qa.test.FocusPageTest@4659191b]" started-at="2022-09-25T15:48:02 SAST" name="signupTest" finished-at="2022-09-25T15:48:04 SAST" duration-ms="2341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.test.FocusPageTest@4659191b]" started-at="2022-09-25T15:48:04 SAST" name="teardown" finished-at="2022-09-25T15:48:05 SAST" duration-ms="523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.test.FocusPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
